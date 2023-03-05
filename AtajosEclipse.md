@@ -1,5 +1,6 @@
 # Atajos de teclado más utilizados para Eclipse
 
+
 ## Atajos de teclado más comunes
 | Atajo | Descripción |
 |-------|------------|
@@ -22,6 +23,7 @@
 | CTRL + MAY + T | Buscador de tipos en el workspace |
 | CTRL + MAY + R | Acceso a la búsqueda de recursos |
 | CTRL + 7 | Comenta el texto seleccionado |
+
 
 ## Atajos de teclado 'next level'
 | Acción | Atajo | Descripción |
