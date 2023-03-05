@@ -1,5 +1,6 @@
 # Atajos de teclado más utilizados para Eclipse
 
+</br>
 
 ## Atajos de teclado más comunes
 | Atajo | Descripción |
@@ -24,6 +25,8 @@
 | CTRL + MAY + R | Acceso a la búsqueda de recursos |
 | CTRL + 7 | Comenta el texto seleccionado |
 
+</br>
+</br>
 
 ## Atajos de teclado 'next level'
 | Acción | Atajo | Descripción |
