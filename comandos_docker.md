@@ -1,5 +1,6 @@
 🚀 **Guía completa y práctica de comandos Docker por categorías**
 
+
 ## 🧱 1. Imágenes (Images)
 
 | Comando                                 | Descripción                                        |
@@ -10,6 +11,7 @@
 | `docker tag img nuevo-nombre`          | Renombra/etiqueta una imagen.                     |
 | `docker pull nombre`                    | Descarga una imagen desde Docker Hub.             |
 | `docker push nombre`                    | Sube una imagen a Docker Hub. (Requiere login)    |
+
 
 ## 📦 2. Contenedores (Containers)
 
@@ -29,6 +31,7 @@
 | `docker exec -it nombre bash`                 | Entra a un contenedor corriendo.                          |
 | `docker logs nombre`                          | Muestra logs del contenedor.                              |
 
+
 ## ⚙️ 3. Volúmenes y Persistencia
 
 | Comando                                      | Descripción                                    |
@@ -37,6 +40,7 @@
 | `docker volume ls`                          | Lista todos los volúmenes.                    |
 | `docker volume rm nombre`                   | Elimina un volumen.                           |
 | `docker run -v nombre:/ruta imagen`         | Monta un volumen en un contenedor.            |
+
 
 ## 🕸️ 4. Redes
 
@@ -47,6 +51,7 @@
 | `docker network connect red contenedor`           | Conecta un contenedor a una red.             |
 | `docker network inspect nombre`                   | Muestra detalles de una red.                 |
 
+
 ## 📄 5. Docker Compose
 
 | Comando                      | Descripción                                       |
@@ -56,6 +61,7 @@
 | `docker compose down`        | Detiene y elimina los servicios.                 |
 | `docker compose build`       | Construye las imágenes definidas.                |
 
+
 ## 🔍 6. Utilidades
 
 | Comando                      | Descripción                                                |
@@ -63,6 +69,7 @@
 | `docker inspect nombre`      | Devuelve info detallada en JSON.                          |
 | `docker system df`           | Muestra cuánto espacio ocupan imágenes/contenedores.      |
 | `docker system prune`        | Limpia recursos sin usar (¡cuidado!).                     |
+
 
 ## 🧪 7. Avanzado
 
